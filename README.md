@@ -41,10 +41,17 @@ As a bilingual engineer fluent in both English and Spanish, I leverage clear, pr
   <figcaption><em>Figure 1: Top view of the completed 10S3P battery pack, featuring capacitive spot-welded pure nickel strips.</em></figcaption>
 </figure>
 
+<figure>
+  <img width="573" height="301" alt="Screenshot 2026-05-26 at 12 31 09 PM" src="https://github.com/user-attachments/assets/42b619a9-980c-4b4d-95a6-79bad97833e1" />
+  <figcaption><em>Figure 1: Top view of the completed 10S3P battery pack, featuring capacitive spot-welded pure nickel strips.</em></figcaption>
+</figure>
 
-<img width="573" height="301" alt="Screenshot 2026-05-26 at 12 31 09 PM" src="https://github.com/user-attachments/assets/42b619a9-980c-4b4d-95a6-79bad97833e1" />
-<img width="690" height="465" alt="Screenshot 2026-05-26 at 12 32 21 PM" src="https://github.com/user-attachments/assets/949ccc5a-1c02-4af9-a4fb-f4f4af7c6b9c" />
 
+
+<figure>
+  <img width="573" height="301" alt="Screenshot 2026-05-26 at 12 31 09 PM" src="https://github.com/user-attachments/assets/42b619a9-980c-4b4d-95a6-79bad97833e1" />
+  <figcaption><em>Figure 1: Top view of the completed 10S3P battery pack, featuring capacitive spot-welded pure nickel strips.</em></figcaption>
+</figure>
 
 
 
