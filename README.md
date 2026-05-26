@@ -120,13 +120,11 @@ As a bilingual engineer fluent in both English and Spanish, I leverage clear, pr
   <tr>
     <td align="center">
       <img width="338" height="455" alt="Screenshot 2026-05-26 at 1 58 23 PM" src="https://github.com/user-attachments/assets/d72255cd-3148-4640-aa6b-0760f6297adc" />
-
       <br>
       <em>Figure 7: Hardware-in-the-loop test bench configuration for the 300W DC generator, detailing the 220V armature and excitation circuit routing.</em>
     </td>
     <td align="center">
       <img width="428" height="249" alt="Screenshot 2026-05-26 at 1 59 58 PM" src="https://github.com/user-attachments/assets/ce442c4b-56f7-422b-8322-8ab7d0b64240" />
-
       <br>
       <em>Figure 8: Load characteristics DAQ telemetry at 2000 RPM, demonstrating peak power output before armature reaction dominance.</em>
     </td>
