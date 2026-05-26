@@ -36,10 +36,15 @@ As a bilingual engineer fluent in both English and Spanish, I leverage clear, pr
 **Test Execution & Failure Analysis**
 * **Load Testing & Validation:** Executed a 10A constant current (CC) continuous discharge test. Verified the hardware's safety response by capturing the undervoltage protection circuit triggering precisely at the 30.0V threshold, successfully severing the discharge contactors.
 * **Root Cause Analysis (Thermal Short):** During initial integration, the passive balancing board suffered a short circuit due to an unevenly cut aluminum heat sink contacting live pins. Diagnosed the failure, machined a flush, symmetrical heat sink block, and revised the mounting layout to permanently resolve the thermal interface issue.
-<img width="416" height="617" alt="Screenshot 2026-05-26 at 12 30 53 PM" src="https://github.com/user-attachments/assets/7985ff5d-07c6-431f-964b-1030d3b2b0f4" />
+<figure>
+  <img width="416" height="617" alt="Screenshot 2026-05-26 at 12 30 53 PM" src="https://github.com/user-attachments/assets/7985ff5d-07c6-431f-964b-1030d3b2b0f4" />
+  <figcaption><em>Figure 1: Top view of the completed 10S3P battery pack, featuring capacitive spot-welded pure nickel strips.</em></figcaption>
+</figure>
+
+
 <img width="573" height="301" alt="Screenshot 2026-05-26 at 12 31 09 PM" src="https://github.com/user-attachments/assets/42b619a9-980c-4b4d-95a6-79bad97833e1" />
 <img width="690" height="465" alt="Screenshot 2026-05-26 at 12 32 21 PM" src="https://github.com/user-attachments/assets/949ccc5a-1c02-4af9-a4fb-f4f4af7c6b9c" />
-<img width="573" height="301" alt="Screenshot 2026-05-26 at 12 31 09 PM" src="https://github.com/user-attachments/assets/ce00c654-d9e6-4386-93ad-ba625dfb41de" />
+
 
 
 
