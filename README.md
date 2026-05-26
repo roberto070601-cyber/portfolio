@@ -104,10 +104,34 @@ As a bilingual engineer fluent in both English and Spanish, I leverage clear, pr
 
 ### 3. Electromechanical Test Operations: DC Shunt-Wound Generators
 *Characterization of a 300W industrial generator platform under 220V load testing, transient analysis, and magnetic field polarity manipulation.*
-* **The Objective:** [We will fill this in next]
-* **Test Infrastructure:** [We will fill this in next]
-* **Failure/Limit Analysis:** [We will fill this in next]
 
+**The Objective**
+* Characterized the electromechanical performance and load characteristics of a 300W industrial DC Shunt-wound generator under varying rotational speeds, excitation currents, and polarity states.
+
+**Test Infrastructure & Execution**
+* **Hardware-in-the-Loop Integration:** Safely wired and operated a mechanical test bed utilizing 210V-220V input supplies, coupling guards, and variable load resistors.
+* **Data Acquisition (DAQ):** Configured ActiveServo software, alongside digital multimeters and field regulators, to capture real-time telemetry from the rotating machinery. 
+
+**Data Analysis & Physical Validation**
+* **Load Characterization:** Executed constant-speed load testing at 2000 RPM to map the generator's power curve. Identified the system's peak power limit of 148.7W at 1.2A of armature current, correctly attributing the subsequent voltage collapse to internal ohmic losses and armature reaction. 
+* **Electromagnetic Validation:** Verified theoretical electromagnetic principles on physical hardware by reversing the exciter winding polarity, successfully observing the output voltage cleanly invert from 187.5V to -187.1V.
+
+<table>
+  <tr>
+    <td align="center">
+      <img width="338" height="455" alt="Screenshot 2026-05-26 at 1 58 23 PM" src="https://github.com/user-attachments/assets/d72255cd-3148-4640-aa6b-0760f6297adc" />
+
+      <br>
+      <em>Figure 7: Hardware-in-the-loop test bench configuration for the 300W DC generator, detailing the 220V armature and excitation circuit routing.</em>
+    </td>
+    <td align="center">
+      <img width="428" height="249" alt="Screenshot 2026-05-26 at 1 59 58 PM" src="https://github.com/user-attachments/assets/ce442c4b-56f7-422b-8322-8ab7d0b64240" />
+
+      <br>
+      <em>Figure 8: Load characteristics DAQ telemetry at 2000 RPM, demonstrating peak power output before armature reaction dominance.</em>
+    </td>
+  </tr>
+</table>
 ---
 
 ## Professional Documentation
