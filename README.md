@@ -49,13 +49,7 @@ As a bilingual engineer fluent in both English and Spanish, I leverage clear, pr
       <em>Figure 2: Side profile showing the capacitive spot-welded pure nickel strips.</em>
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img width="400" alt="Screenshot 2026-05-26 at 12 31 09 PM" src="https://github.com/user-attachments/assets/42b619a9-980c-4b4d-95a6-79bad97833e1" />
-      <br>
-      <em>Figure 3: Alternative view of the hardware assembly.</em>
-    </td>
-  </tr>
+ 
 </table>
 
 ### 2. Transistor-Level Active Filter Design & Simulation
