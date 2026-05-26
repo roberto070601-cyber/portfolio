@@ -23,9 +23,19 @@ As a bilingual engineer fluent in both English and Spanish, I leverage clear, pr
 
 ### 1. Dual-Microcontroller 10S3P Battery Management System
 *Custom STM32/ESP32 power delivery network featuring pure nickel spot welding, galvanic isolation, and automated web-server telemetry dashboards.*
-* **The Objective:** [We will fill this in next]
-* **Hardware Assembly:** [We will fill this in next]
-* **Test Validation:** [We will fill this in next]
+
+**The Objective**
+* Engineered and assembled a custom Battery Management System (BMS) to monitor, balance, and protect a 36V, 9Ah lithium-ion power system utilizing a 10S3P configuration of Samsung INR18650-30Q cells.
+* Designed a dual-microcontroller architecture: an STM32 handles strict real-time analog sensing and safety cutoffs, while a galvanically isolated ESP32 manages high-level data logging and wireless telemetry.
+
+**Hardware Assembly & Architecture**
+* **Physical Cell Integration:** Constructed the structural battery pack using custom capacitive spot welding. Routed pure nickel strips in a serpentine layout to minimize series resistance and prevent localized cell heating during high-current draw.
+* **Custom PCB Layout:** Designed the monitoring and controller boards adhering to IPC-2221 standards. Implemented strategic ground plane separation and used an Everlight EL3H7-G optocoupler to ensure a 3750 Vrms galvanic barrier between the high-voltage battery domain and the 3.3V logic domain.
+* **Thermal Management:** Engineered a dedicated passive balancing board utilizing AO3400A MOSFETs and 18-ohm, 2W surface-mount bleed resistors to safely dissipate excess charge and maintain strict voltage equilibrium.
+
+**Test Execution & Failure Analysis**
+* **Load Testing & Validation:** Executed a 10A constant current (CC) continuous discharge test. Verified the hardware's safety response by capturing the undervoltage protection circuit triggering precisely at the 30.0V threshold, successfully severing the discharge contactors.
+* **Root Cause Analysis (Thermal Short):** During initial integration, the passive balancing board suffered a short circuit due to an unevenly cut aluminum heat sink contacting live pins. Diagnosed the failure, machined a flush, symmetrical heat sink block, and revised the mounting layout to permanently resolve the thermal interface issue.
 
 ### 2. Transistor-Level Active Filter Design & Simulation
 *A mathematical and discrete simulation analysis of a two-pole low-pass Butterworth filter utilizing the internal macro-stages of an LM741 op-amp.*
