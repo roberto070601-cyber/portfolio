@@ -41,26 +41,26 @@ As a bilingual engineer fluent in both English and Spanish, I leverage clear, pr
     <td align="center">
       <img width="400" alt="Screenshot 2026-05-26 at 12 30 53 PM" src="https://github.com/user-attachments/assets/7985ff5d-07c6-431f-964b-1030d3b2b0f4" />
       <br>
-      <em>Figure 1: Top view of the completed 10S3P battery pack.</em>
+      <em>Figure 1: Controller Board and Batttery Monitoring Board Sucessfully displaying the data Pack Data.</em>
     </td>
     <td align="center">
       <img width="400" alt="Screenshot 2026-05-26 at 12 31 09 PM" src="https://github.com/user-attachments/assets/42b619a9-980c-4b4d-95a6-79bad97833e1" />
       <br>
-      <em>Figure 2: Side profile showing the capacitive spot-welded pure nickel strips.</em>
+      <em>Figure 2:User Dashboard Showcasing Invdividual Cell Voltages. total pack voltage, and temperature of the cells..</em>
     </td>
   </tr>
    <tr>
     <td align="center">
       <img width="1029" height="407" alt="Screenshot 2026-05-26 at 12 32 08 PM" src="https://github.com/user-attachments/assets/181d48b2-7863-4dd0-a97e-cba735853c4d" />
       <br>
-      <em>Figure 1: Top view of the completed 10S3P battery pack.</em>
+      <em>Figure 3: Spot Welded Nickel Strips onto Cells.</em>
     </td>
 
   <tr>
     <td align="center">
       <img width="690" height="465" alt="Screenshot 2026-05-26 at 12 32 21 PM" src="https://github.com/user-attachments/assets/708210de-58c7-4317-9145-f2b6cc13d987" />
       <br>
-      <em>Figure 1: Top view of the completed 10S3P battery pack.</em>
+      <em>Figure 4: completed 10S3P battery pack.</em>
     </td>
 
 
