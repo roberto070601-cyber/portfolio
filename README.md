@@ -68,9 +68,17 @@ As a bilingual engineer fluent in both English and Spanish, I leverage clear, pr
 
 ### 2. Transistor-Level Active Filter Design & Simulation
 *A mathematical and discrete simulation analysis of a two-pole low-pass Butterworth filter utilizing the internal macro-stages of an LM741 op-amp.*
-* **The Objective:** [We will fill this in next]
-* **Component Selection:** [We will fill this in next]
-* **Transistor-Level Analysis:** [We will fill this in next]
+
+**The Objective**
+* Designed, calculated, and simulated a Sallen-Key two-pole low-pass Butterworth filter targeting a precise high-frequency cutoff.
+* Executed advanced Bode plot simulations to verify the frequency response, confirming the mathematical expectation of a -40 dB/decade roll-off past the cutoff frequency to achieve a maximally flat magnitude response in the passband.
+
+**Transistor-Level Analysis & Simulation**
+* **Beyond Ideal Models:** Rather than relying on a standard "black box" ideal op-amp model, the filter was constructed and simulated using the massive internal transistor-level equivalent circuit of the LM741.
+* **Stage-by-Stage Verification:** Analyzed how specific discrete internal stages dictate macro-level filter performance. This included verifying the high-impedance differential input stage, evaluating the dominant pole stabilization provided by the gain stage's internal Miller compensation capacitor, and mapping the signal through the class-AB complementary output stage.
+
+**Component Selection & Mathematical Validation**
+* Derived the necessary passive component values using standard Butterworth capacitor ratios (C3 = 1.414C and C4 = 0.707C) to perfectly shape the filter's damping factor and quality factor (Q).
 
 ### 3. Electromechanical Test Operations: DC Shunt-Wound Generators
 *Characterization of a 300W industrial generator platform under 220V load testing, transient analysis, and magnetic field polarity manipulation.*
