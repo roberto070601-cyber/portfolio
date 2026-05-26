@@ -80,6 +80,29 @@ As a bilingual engineer fluent in both English and Spanish, I leverage clear, pr
 **Component Selection & Mathematical Validation**
 * Derived the necessary passive component values using standard Butterworth capacitor ratios (C3 = 1.414C and C4 = 0.707C) to perfectly shape the filter's damping factor and quality factor (Q).
 
+<table>
+  <tr>
+    <td align="center">
+      <img width="704" height="381" alt="Screenshot 2026-05-26 at 1 32 07 PM" src="https://github.com/user-attachments/assets/da1fbf64-4dc5-41b4-b851-47d20fc74b60" />
+      <br>
+      <em>Figure 4: The standard ideal representation of the two-pole low-pass filter.</em>
+    </td>
+    <td align="center">
+      <img width="1199" height="575" alt="Screenshot 2026-05-26 at 1 34 36 PM" src="https://github.com/user-attachments/assets/d0f90e27-fb16-4c2a-ac34-42110d8c645f" />
+      <br>
+      <em>Figure 5: The filter simulated using the full discrete transistor-level architecture of the LM741.</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img width="1128" height="531" alt="Screenshot 2026-05-26 at 1 36 08 PM" src="https://github.com/user-attachments/assets/923b943a-a6da-490b-9858-85905dc0056b" />
+
+      <br>
+      <em>Figure 6: AC Sweep Bode plot confirming the -40 dB/decade magnitude roll-off.</em>
+    </td>
+  </tr>
+</table>
+
 ### 3. Electromechanical Test Operations: DC Shunt-Wound Generators
 *Characterization of a 300W industrial generator platform under 220V load testing, transient analysis, and magnetic field polarity manipulation.*
 * **The Objective:** [We will fill this in next]
