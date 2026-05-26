@@ -15,7 +15,7 @@ As a bilingual engineer fluent in both English and Spanish, I leverage clear, pr
 
 | Hardware & Fabrication | Testing & Automation | Software & Tools |
 | :--- | :--- | :--- |
-| • High-Voltage Battery Assembly<br>• Capacitive Spot Welding<br>• Precision Soldering & Crimping<br>• Custom Cable Harnessing<br>• Ground Support Equipment (GSE) | • Hardware-in-the-Loop (HITL)<br>• Data Acquisition (DAQ) Setup<br>• Transistor-Level Circuit Analysis<br>• Calibration & Root Cause Analysis<br>• Industrial Safety Operations | • C / C++ (STM32, ESP32)<br>• Python (Test Automation)<br>• Linux Environment Config<br>• NI Multisim / Ultiboard<br>• LaTeX (Technical Reporting) |
+| • High-Voltage Battery Assembly<br>• Capacitive Spot Welding<br>• Precision Soldering & Crimping<br>• Custom Cable Harnessing<br>| • Hardware-in-the-Loop (HITL)<br>• Data Acquisition (DAQ) Setup<br>• Transistor-Level Circuit Analysis<br>• Calibration & Root Cause Analysis<br>• Industrial Safety Operations | • C / C++ (STM32, ESP32)<br>• Python (Test Automation)<br> • NI Multisim / Ultiboard<br>• LaTeX (Technical Reporting) |
 
 ---
 
