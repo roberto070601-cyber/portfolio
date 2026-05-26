@@ -49,7 +49,21 @@ As a bilingual engineer fluent in both English and Spanish, I leverage clear, pr
       <em>Figure 2: Side profile showing the capacitive spot-welded pure nickel strips.</em>
     </td>
   </tr>
- 
+   <tr>
+    <td align="center">
+      <img width="1029" height="407" alt="Screenshot 2026-05-26 at 12 32 08 PM" src="https://github.com/user-attachments/assets/181d48b2-7863-4dd0-a97e-cba735853c4d" />
+      <br>
+      <em>Figure 1: Top view of the completed 10S3P battery pack.</em>
+    </td>
+
+  <tr>
+    <td align="center">
+      <img width="690" height="465" alt="Screenshot 2026-05-26 at 12 32 21 PM" src="https://github.com/user-attachments/assets/708210de-58c7-4317-9145-f2b6cc13d987" />
+      <br>
+      <em>Figure 1: Top view of the completed 10S3P battery pack.</em>
+    </td>
+
+
 </table>
 
 ### 2. Transistor-Level Active Filter Design & Simulation
