@@ -135,6 +135,6 @@ As a bilingual engineer fluent in both English and Spanish, I leverage clear, pr
 ## Professional Documentation
 
 * [📄 **Download Professional Resume**](Roberto_Barajas_Resume.pdf)
-* [📘 **Download Full Technical Report: 10S3P Battery Management System**](BMS_Technical_Report.pdf)
+* [📘 Download Full Technical Report: 10S3P Battery Management System] (https://drive.google.com/file/d/1Crthiedf52XxD71sAHAsho0QbnKb91As/view?usp=sharing)
 * [📗 **Download Simulation Analysis: Transistor-Level Active Filter**](ECE_138_Filter_Simulation.pdf)
 * [📙 **Download Lab Data & Telemetry: DC Shunt-Wound Generators**](DC_Generator_Lab_Data.pdf)
