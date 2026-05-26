@@ -1,6 +1,6 @@
-# [Your Name] | Electrical Engineer
+# [Roberto Carlos Barajas] | Electrical Engineer
 **Hardware Integration • Test Operations • Power Systems**
-Concord, CA | [Your Email] | [Your LinkedIn] 
+San Joaquin, CA | [robertocbarajas11@gmail.com] | 
 
 ---
 
