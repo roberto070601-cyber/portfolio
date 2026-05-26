@@ -96,7 +96,6 @@ As a bilingual engineer fluent in both English and Spanish, I leverage clear, pr
   <tr>
     <td align="center" colspan="2">
       <img width="1128" height="531" alt="Screenshot 2026-05-26 at 1 36 08 PM" src="https://github.com/user-attachments/assets/923b943a-a6da-490b-9858-85905dc0056b" />
-
       <br>
       <em>Figure 6: AC Sweep Bode plot confirming the -40 dB/decade magnitude roll-off. </em>
     </td>
