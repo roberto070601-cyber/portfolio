@@ -131,7 +131,43 @@ As a bilingual engineer fluent in both English and Spanish, I leverage clear, pr
   </tr>
 </table>
 ---
+# PLC Automated Car Wash Project
 
+**Authors:** Roberto Barajas, Jesus Barajas, Eduardo Lopez  
+**Course:** ECE 119L Programmable Logic Controllers (Fall 2025)
+
+## 📌 Project Overview
+This project simulates an automated car wash system using a Programmable Logic Controller (PLC). It controls a full wash cycle utilizing timers, counters, and ladder logic to manage different stages of the wash. The system also allows the user to select between Tier 1 and Tier 2 wash modes.
+
+## 🛠️ Hardware and Software
+* **Software:** PLC Simulator Online
+* **Hardware / I/O:** PLC Trainer push buttons (Start, Stop, Tier 1, Tier 2, Reset) and Indicator lights (Water, Soap, Wax, Blower, Conveyor, Status)
+
+## ⚙️ PLC Control Logic
+The system is built on standard PLC ladder logic principles:
+* **Start/Stop Latch:** Controls overall system power.
+* **Memory Bits:** Stores the user's selection for a Tier 1 or Tier 2 wash.
+* **TON Timer:** Runs a complete 50-second wash cycle.
+* **CTU Counter:** Tracks the number of completed wash cycles.
+* **Comparison Logic:** Controls physical outputs based on the elapsed time of the TON timer.
+
+## ⏱️ Wash Sequence and Timing (50-Second Cycle)
+Outputs turn ON/OFF automatically using timer comparisons:
+* **0 - 10 s:** Water (Pre-rinse)
+* **10 - 25 s:** Soap
+* **25 - 35 s:** Water (Final rinse)
+* **35 - 40 s:** Wax *(Tier 2 only)*
+* **40 - 50 s:** Blower (Drying)
+
+## 🚦 Indicators & Maintenance Features
+* **Red Light:** Indicates the system is active during a wash.
+* **Green Light:** Indicates the wash is complete and the system is ready for the next car.
+* **Car Counter:** Increments after each successful wash cycle.
+* **Maintenance Light:** Illuminates when the car counter reaches its preset limit (10 cycles), signaling that maintenance is required.
+
+## 🔗 Live Simulation
+You can view and interact with the live PLC ladder logic simulation here:  
+[PLC Simulator Online - Automated Car Wash](https://app.plcsimulator.online/DsDal2aZeSw7DnuKzXVI)
 ## Professional Documentation
 
 * [📄 **Download Professional Resume**](Roberto_Barajas_Resume.pdf)
