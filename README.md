@@ -131,7 +131,7 @@ As a bilingual engineer fluent in both English and Spanish, I leverage clear, pr
   </tr>
 </table>
 ---
-# PLC Automated Car Wash Project
+# [4]. PLC Automated Car Wash Project
 
 **Authors:** Roberto Barajas, Jesus Barajas, Eduardo Lopez  
 **Course:** ECE 119L Programmable Logic Controllers (Fall 2025)
@@ -163,12 +163,11 @@ Outputs turn ON/OFF automatically using timer comparisons:
 * **Red Light:** Indicates the system is active during a wash.
 * **Green Light:** Indicates the wash is complete and the system is ready for the next car.
 * **Car Counter:** Increments after each successful wash cycle.
-* **Maintenance Light:** Illuminates when the car counter reaches its preset limit (10 cycles), signaling that maintenance is required.
+* **Maintenance Light:** Illuminates when the car counter reaches its preset limit, signaling that maintenance is required.
 
 ## 🔗 Live Simulation
 You can view and interact with the live PLC ladder logic simulation here:  
 [PLC Simulator Online - Automated Car Wash](https://app.plcsimulator.online/DsDal2aZeSw7DnuKzXVI)
-## Professional Documentation
 
 * [📄 **Download Professional Resume**](Roberto_Barajas_Resume.pdf)
 * [📘 Download Full Technical Report: 10S3P Battery Management System] (https://drive.google.com/file/d/1Crthiedf52XxD71sAHAsho0QbnKb91As/view?usp=sharing)
