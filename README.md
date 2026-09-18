@@ -1,4 +1,4 @@
-#Roberto Carlos Barajas | Electrical Engineer
+# Roberto Carlos Barajas | Electrical Engineer
 **Hardware Integration • Test Operations • Power Systems**
 San Joaquin, CA | [robertocbarajas11@gmail.com] | 
 
